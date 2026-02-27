@@ -1,8 +1,4 @@
-/*
-    AULA 24/02
-Atividade para re-lembrar aulas passadas
-    Beecrowd 1180
-*/
+
 #include <stdio.h>
 
 int main(){
@@ -34,3 +30,4 @@ int main(){
 
 
 }
+
